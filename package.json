@@ -1,0 +1,21 @@
+{
+  "name": "abhishek-bhai",
+  "version": "0.0.1",
+  "description": "Hemlo Abhishek Bhai.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "module": "./dist/index.mjs",
+  "type": "module",
+  "scripts": {
+    "build": "tsup"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "open": "^10.1.0"
+  }
+}
